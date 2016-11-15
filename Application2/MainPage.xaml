@@ -8,5 +8,6 @@
     mc:Ignorable="d">
     <StackPanel>
         <TextBlock Text="Hello World!" x:Name="TextBlock1" />
+        <TextBlock Text="Hello World!" x:Name="TextBlock2" />
     </StackPanel>
 </Page>
