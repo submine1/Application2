@@ -9,5 +9,6 @@
     <StackPanel>
         <TextBlock Text="Hello World!" x:Name="TextBlock1" />
         <TextBlock Text="Hello World!" x:Name="TextBlock2" />
+        <TextBlock Text="Hello World!" x:Name="TextBlock3" />
     </StackPanel>
 </Page>
