@@ -13,5 +13,7 @@
         <TextBlock Text="Hello World!" x:Name="TextBlock4" />
         <TextBlock Text="Hello World!" x:Name="TextBlock5" />
         <TextBlock Text="Hello World!" x:Name="TextBlock6" />
+        <TextBlock Text="Hello World!" x:Name="TextBlock7" />
+        <TextBlock Text="Hello World!" x:Name="TextBlock8" />
     </StackPanel>
 </Page>
